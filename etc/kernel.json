@@ -1,0 +1,23 @@
+{
+  "language_info": {
+    "name": "scala"
+  },
+  "display_name": "Toree Spark 2",
+  "env": {
+    "PYTHONPATH": "/home/astwin/software/spark-2.1.0-bin-hadoop2.7/python:/home/astwin/software/spark-2.1.0-bin-hadoop2.7/python/lib/py4j-0.10-1-src.zip",
+    "SPARK_HOME": "/home/astwin/software/spark-2.1.0-bin-hadoop2.7",
+    "CAPTURE_STANDARD_ERR": "true",
+    "MAX_INTERPRETER_THREADS": "16",
+    "CAPTURE_STANDARD_OUT": "true",
+    "SEND_EMPTY_OUTPUT": "false",
+    "PYTHON_EXEC": "python"
+  },
+  "argv": [
+    "/home/astwin/.local/share/jupyter/kernels/toree2/bin/run.sh",
+    "--profile",
+    "{connection_file}",
+    "--magic-url",
+    "file:/home/astwin/.local/share/jupyter/kernels/toree2/lib/sparkUI-port-toree-magic-1.0-SNAPSHOT.jar"	
+  ],
+  "codemirror_mode": "scala"
+}
