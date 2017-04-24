@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache</groupId>
+  <artifactId>toree</artifactId>
+  <versioning>
+    <versions>
+      <version>0.2.0.dev1-incubating-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170424174221</lastUpdated>
+  </versioning>
+</metadata>
